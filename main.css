@@ -121,7 +121,9 @@
 
 @media screen and (min-width:800px) {
 
-
+.menu {
+  font-size: 25px;
+}
 
 .quizApp {
   height: 400px;
