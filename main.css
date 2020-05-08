@@ -71,6 +71,7 @@
     border-radius: 800px;
   }
 
+
   p {
     text-align: center;
     width: 80%;
@@ -117,6 +118,8 @@
 
 @media screen and (min-width:800px) {
 
+
+
 .quizApp {
   height: 400px;
 }
@@ -126,7 +129,7 @@
 }
 
 p {
-  width: 40%;
+  width: 70%;
 }
 
 }
