@@ -9,16 +9,23 @@
     color: #444;
     text-align: center;
     line-height: 1.5;
+    background-color: #bbb;
   }
   
   .main {
     padding-top: 100px;
+    color: antiquewhite;
+  }
+
+  .home {
+    background-image: url("nycSkyline.jpg");
+    background-size: cover;
   }
   
   footer {
     padding-top: 30px;
     padding: 1% 0;
-    background-color: #aaa;
+    background-color: white;
   }
   
   nav {
@@ -35,7 +42,7 @@
   }
 
   .menu {
-    font-size: 16px;
+    font-size: 13px;
     list-style: none;
     display: flex;
     text-align: right;
@@ -67,6 +74,10 @@
     background-color: #bbb;
   }
 
+  .aboutMe {
+    background-color: antiquewhite;
+  }
+
 
   .profilePic {
     height: 150px;
@@ -81,9 +92,6 @@
     margin-bottom: 20px; 
   }
   
-  section:nth-child(even) {
-    background-color: #ddd;
-  }
 
   ul {
     font-size: 2rem;
@@ -126,6 +134,11 @@
 p {
   width: 70%;
   max-width: 700px;
+}
+
+.aboutMe {
+  width: 900px;
+  margin: 0 auto;
 }
 
 .menu {
