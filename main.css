@@ -14,8 +14,8 @@
   
   .main {
     padding-top: 100px;
-    color: antiquewhite;
-    text-shadow: 2px 2px black;
+    color: black;
+    /* text-shadow: 2px 2px black; */
   }
 
   .home {
